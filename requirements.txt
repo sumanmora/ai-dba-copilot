@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+cx_Oracle
+pyodbc
+streamlit
+python-dotenv
+pandas
